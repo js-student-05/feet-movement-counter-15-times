@@ -1,5 +1,5 @@
 {
-    "name": "feet-movement-count-15-20-times",
+    "name": "movement-counter15-20-times",
     "description": "",
     "dependencies": {
         "core": "*",
